@@ -1,0 +1,58 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Program Files (x86)/Arduino/**",
+        "C:/Users/YuYan/Documents/Arduino/**",
+        "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino/**",
+        "C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard/**",
+        "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino/",
+        "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/**",
+        "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/",
+        "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SoftwareSerial/",
+        "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/",
+        "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/",
+        "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr/",
+        "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/compat/",
+        "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/util/",
+        "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/7.3.0/include/",
+        "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/7.3.0/include-fixed/"
+      ],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+      "cStandard": "gnu17",
+      "cppStandard": "gnu++14"
+    },
+    {
+      "name": "Mac os",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/Applications/Arduino.app/Contents/Java/**",
+        "/Users/yuyan/Documents/Arduino/**",
+        "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/**",
+        "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard/**",
+        "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/",
+        "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/**",
+        "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SPI/",
+        "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/SoftwareSerial/",
+        "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/",
+        "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include/",
+        "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include/avr/",
+        "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include/compat/",
+        "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include/util/",
+        "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/lib/gcc/avr/7.3.0/include/",
+        "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/lib/gcc/avr/7.3.0/include-fixed/"
+      ],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+      "cStandard": "gnu17",
+      "cppStandard": "gnu++14",
+      "arduino.path": "/Applications/Arduino.app/Contents/Java/",
+      "C_Cpp.intelliSenseEngineFallback": "Disabled",
+      "C_Cpp.intelliSenseEngine": "Tag Parser"
+    }
+  ],
+  "version": 4
+}
